@@ -3,9 +3,9 @@
   "Author": "KarolKopeć",
   "Version": "1.0",
   "Domains": {
-    "QuitTM.plx": {
-      "Ip": "127.0.0.1",
-      "Port": 9010,
+    "youtube.plx": {
+      "Ip": "192.168.0.1",
+      "Port": 9020,
       "Description": "Pierwsza oficjalna witryna sieci QuitNavigator"
     },
     "Polska24.plx": {
