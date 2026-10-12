@@ -1,0 +1,17 @@
+{
+  "Network": "NETp15pl Secure Local Network",
+  "Author": "KarolKopeć",
+  "Version": "1.0",
+  "Domains": {
+    "QuitTM.plx": {
+      "Ip": "127.0.0.1",
+      "Port": 9010,
+      "Description": "Pierwsza oficjalna witryna sieci QuitNavigator"
+    },
+    "Polska24.plx": {
+      "Ip": "127.0.0.1",
+      "Port": 9005,
+      "Description": "Glowna stacja informacyjna sieci NETp15pl"
+    }
+  }
+}
