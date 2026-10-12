@@ -4,9 +4,9 @@
   "Version": "1.0",
   "Domains": {
     "youtube.plx": {
-      "Ip": "192.168.0.1",
+      "Ip": "127.0.0.1",
       "Port": 9020,
-      "Description": "Pierwsza oficjalna witryna sieci QuitNavigator"
+      "Description": "Lokalny węzeł wideo sieci NETp15pl"
     },
     "Polska24.plx": {
       "Ip": "127.0.0.1",
